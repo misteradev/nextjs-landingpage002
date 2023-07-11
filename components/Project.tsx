@@ -17,7 +17,7 @@ export default function Project({}: Props) {
             <div className='flex justify-between'>
                 <h3 className='text-4xl font-semibold'>{contents.project.title}</h3>
                 <div className='flex gap-8 items-center'>
-                    <Link className='font-medium' href="/project">View more</Link>
+                    <Link className='font-medium' href="/">View more</Link>
                     <HiOutlineArrowLongRight className='text-3xl'/>
                 </div>
             </div>
@@ -30,7 +30,7 @@ export default function Project({}: Props) {
                                 <h4 className='text-white text-4xl font-semibold'>{contents.project.title1}</h4>
                                 <p className='text-white my-4'>{contents.project.desc1}</p>
                                 <div className='flex gap-8 text-yellow1 hover:underline underline-offset-4'>
-                                    <Link href="/project">View project</Link>
+                                    <Link href="/">View project</Link>
                                     <HiOutlineArrowLongRight className='text-3xl'/>
                                 </div>
                             </div>
@@ -44,7 +44,7 @@ export default function Project({}: Props) {
                             <div>
                                 <h4 className='text-white text-4xl font-semibold mb-4'>{contents.project.title2}</h4>
                                 <div className='flex gap-8 text-yellow1 hover:underline underline-offset-4'>
-                                    <Link href="/project">View portfolio</Link>
+                                    <Link href="/">View portfolio</Link>
                                     <HiOutlineArrowLongRight className='text-3xl'/>
                                 </div>
                             </div>

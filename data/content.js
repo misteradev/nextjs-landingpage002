@@ -26,11 +26,11 @@ export const contents = {
     navmenu: {
         links: [
             { path: '/', label: 'Home' },
-            { path: '/about', label: 'About' },
-            { path: '/features', label: 'Features' },
-            { path: '/pricing', label: 'Pricing' },
-            { path: '/faq', label: 'FAQ' },
-            { path: '/blog', label: 'Blog' },
+            { path: '/', label: 'About' },
+            { path: '/', label: 'Features' },
+            { path: '/', label: 'Pricing' },
+            { path: '/', label: 'FAQ' },
+            { path: '/', label: 'Blog' },
 
         ],
     },
@@ -109,9 +109,9 @@ export const contents = {
     blog: {
         title: 'Our blog',
         blogCard: [
-            {img: blog1, alt: 'image1', date: '19 jan 2022', title: 'How one Webflow user grew his single person consultancy from $0-100K in 14 months', desc: 'See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract', path: '/about'},
-            {img: blog2, alt: 'image2', date: '19 jan 2022', title: 'How one Webflow user grew his single person consultancy from $0-100K in 14 months', desc: 'See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract', path: '/features'},
-            {img: blog3, alt: 'image3', date: '19 jan 2022', title: 'How one Webflow user grew his single person consultancy from $0-100K in 14 months', desc: 'See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract', path: '/pricing'},
+            {img: blog1, alt: 'image1', date: '19 jan 2022', title: 'How one Webflow user grew his single person consultancy from $0-100K in 14 months', desc: 'See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract', path: '/'},
+            {img: blog2, alt: 'image2', date: '19 jan 2022', title: 'How one Webflow user grew his single person consultancy from $0-100K in 14 months', desc: 'See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract', path: '/'},
+            {img: blog3, alt: 'image3', date: '19 jan 2022', title: 'How one Webflow user grew his single person consultancy from $0-100K in 14 months', desc: 'See how pivoting to Webflow changed one person’s sales strategy and allowed him to attract', path: '/'},
         ],
     },
 }

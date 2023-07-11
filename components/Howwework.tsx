@@ -18,7 +18,7 @@ export default function Howwework({ }: Props) {
                     <h4 className='text-5xl font-semibold text-center md:text-start'>{contents.work.title}</h4>
                     <p className='py-4'>{contents.work.desc}</p>
                     <div className='flex gap-8 justify-center md:justify-start items-center text-blue1 mt-2 md:mt-5'>
-                        <Link href="/about" className='font-medium flex gap-8 items-center'>Get in touch with us<HiOutlineArrowNarrowRight className='text-2xl'/></Link>
+                        <Link href="/" className='font-medium flex gap-8 items-center'>Get in touch with us<HiOutlineArrowNarrowRight className='text-2xl'/></Link>
                     </div>
                 </div>
                 <div className='col-span-2'>
