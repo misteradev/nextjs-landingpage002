@@ -3,6 +3,7 @@
 <h1>NextJS Landing Page</h1>
 
 ### NextJS + React + Tailwindcss
+### Remark : We create only Home Page, Your can create more page.
 
 ```bash 
 npm run dev
