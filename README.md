@@ -13,7 +13,7 @@ npm run dev
 [See Now](https://misteradevlandingpage002.netlify.app/)
 
 ## Netlify live preview link New Tab
-[See Now](https://misteradevlandingpage002.netlify.app/){:target="_blank"}
+[go](https://misteradevlandingpage002.netlify.app/){:target="_blank" rel="noopener"}
 
 ## packages:
 + [tailwind css](https://tailwindcss.com/docs/installation)
