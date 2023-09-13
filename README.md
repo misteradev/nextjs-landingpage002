@@ -11,6 +11,8 @@ npm run dev
 
 ## Netlify live preview link
 [See Now](https://misteradevlandingpage002.netlify.app/)
+
+## Netlify live preview link New Tab
 <a href="https://misteradevlandingpage002.netlify.app/" target="_blank" rel="noopener noreferrer">See Now</a>
 
 ## packages:
