@@ -11,7 +11,7 @@ npm run dev
 
 ## Netlify live preview link
 [See Now](https://misteradevlandingpage002.netlify.app/)
-<a href="https://misteradevlandingpage002.netlify.app/" target="_blank">[See Now]</a>
+<a href="https://misteradevlandingpage002.netlify.app/" target="_blank" rel="noopener noreferrer">See Now</a>
 
 ## packages:
 + [tailwind css](https://tailwindcss.com/docs/installation)
